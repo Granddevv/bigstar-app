@@ -1,0 +1,8 @@
+# NPM Package
+node_modules/
+
+# WebStorm IDEA
+.idea/
+
+# Git Section
+package-lock.json
